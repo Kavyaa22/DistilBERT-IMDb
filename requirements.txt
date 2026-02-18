@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+transformers
+datasets
+gradio
+matplotlib
+huggingface-hub
+safetensors
+tqdm
+scikit-learn
+safetensors
+huggingface_hub
+shap==0.48.0
+numpy==1.26.4
